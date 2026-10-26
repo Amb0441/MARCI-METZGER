@@ -1,0 +1,11 @@
+Tools and frameworks
+HTML, CSS, and JavaScript only. No framework. Photos, the Ridge mark, the monogram, the REALTOR pin, the Equal Housing mark, and the chamber logo were downloaded from marcimetzger.com. The photo gallery uses the seven listing photos from that site’s gallery, not stock images. Type is Cormorant Garamond and Outfit from Google Fonts. Office hours use the browser clock in Pacific time.
+
+Design decision
+The reference hero repeats “Pahrump Realtor” on a darkened photo and leaves the sales record further down the page. This version uses one split hero: the Mountain Falls pond stays full-bleed, and a solid navy panel carries a single headline, the phone number, and one call to action. The 2021 results — about 90 clients and $28.5 million — sit in a stat bar immediately under that hero, so the reason to call is visible before the rest of the story.
+
+The listing search uses the same filters as the reference page. It does not invent listings or prices. The message form checks name and email in the browser and then asks the visitor to call, because this page has no office inbox.
+
+The reviews are public: three five-star Google reviews (December 2025, April 2021, and September 2020) and a 2018 note from Donna M. Names that were not published are not invented.
+
+Motion is limited to a short fade on the hero and as each section enters the screen, plus quiet hover states. It turns off when the visitor has reduced-motion enabled.
