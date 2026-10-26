@@ -780,6 +780,7 @@ section[id],
 
   .hero {
     grid-template-columns: minmax(340px, 0.86fr) 1.14fr;
+    min-height: calc(100svh - var(--header));
   }
 
   .hero-copy {
@@ -789,10 +790,14 @@ section[id],
     padding: 3.2rem 3rem;
   }
 
+  .hero-media {
+    min-height: calc(100svh - var(--header));
+  }
+
   .hero-media img {
     height: 100%;
-    min-height: 560px;
-    max-height: 680px;
+    min-height: calc(100svh - var(--header));
+    max-height: none;
     object-position: center 42%;
   }
 
